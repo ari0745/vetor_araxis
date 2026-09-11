@@ -3,6 +3,7 @@ programa {
     
     //declaração de vetores para 5 nomes e variavel de controle
     cadeia nomes [5]
+    real notas [15]
 
     //captura os nomes dos 5 alunos
     para(inteiro i = 0; i < 5; i++){ //faça
@@ -22,12 +23,9 @@ programa {
       escreva("Aluno: ", nomes[i],"\n")
 
 
-
-
-
-
-
-
+    para(inteiro j = 0; j < 3; j++){
+    
+    }
       }
   }
 }
