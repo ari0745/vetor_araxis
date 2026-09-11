@@ -24,7 +24,10 @@ programa {
 
 
     para(inteiro j = 0; j < 3; j++){
-    
+       inteiro posicao = (i * 3) + j
+      escreva("Digite a Nota: ")
+      leia(notas [i])
+
     }
       }
   }
